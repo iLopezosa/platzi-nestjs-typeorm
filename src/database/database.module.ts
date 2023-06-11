@@ -22,7 +22,7 @@ const API_KEY_PROD = 'PROD1212121SA';
           username: user,
           password: pass,
           database: name,
-          synchronize: true,
+          synchronize: false,
           autoLoadEntities: true,
         };
       },
